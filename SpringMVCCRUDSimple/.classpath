@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v9.0"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/annotations-api.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/catalina.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/catalina-ant.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/catalina-ha.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/catalina-ssi.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/catalina-storeconfig.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/catalina-tribes.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/ecj-4.20.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/el-api.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/jasper.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/jasper-el.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/jaspic-api.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/jsp-api.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/servlet-api.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/tomcat-api.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/tomcat-coyote.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/tomcat-dbcp.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/tomcat-i18n-cs.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/tomcat-i18n-de.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/tomcat-i18n-es.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/tomcat-i18n-fr.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/tomcat-i18n-ja.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/tomcat-i18n-ko.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/tomcat-i18n-pt-BR.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/tomcat-i18n-ru.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/tomcat-i18n-zh-CN.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/tomcat-jdbc.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/tomcat-jni.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/tomcat-util.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/tomcat-util-scan.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/tomcat-websocket.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/websocket-api.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>

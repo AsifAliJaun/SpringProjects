@@ -1,0 +1,9 @@
+ git config --global user.email "asifalizeyan1234@gmail.com"
+
+ git config --global user.name "asifalijaun"
+ git init
+ git add springForm
+ git status
+ git commit -m "msg"
+ git remote add origin https://github.com/AsifAliJaun/19CS1017.git
+ git push origin main
